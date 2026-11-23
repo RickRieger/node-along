@@ -1,5 +1,5 @@
 const getInput = require("./get-input.js");
 
-const jackAss = getInput();
+const name = getInput();
 
-console.log( jackAss + " how the hell are ya?")
+console.log(name + ", how are ya?");
